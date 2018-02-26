@@ -1,6 +1,6 @@
 # Site settings
-baseurl = "https://example.org/"
-languageCode = "en-us"
+baseurl = "/"
+languageCode = "en-gb"
 title = "Agency"
 theme = "hugo-agency-theme"
 
