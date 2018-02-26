@@ -1,5 +1,7 @@
 # Hugo default output directory
 /public
+npm-debug.log
+/node_modules/*
 
 ## OS Files
 # Windows
